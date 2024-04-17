@@ -18,15 +18,15 @@ The results of the experiments are provided below:
 
 - **UNet with Clustering output:**
 
-  ![UNet with Clustering output](https://github.com/your-username/your-repository/raw/main/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/results/Unet%20with%20Clustering%20output.png)
+  ![UNet with Clustering output](https://github.com/Dhruv-Puvar-512/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/blob/main/results/Unet%20with%20Clustering%20output.png)
 
 - **UNet-ASPP with Clustering output**: 
 
-  ![UNet with Clustering output](https://github.com/your-username/your-repository/raw/main/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/results/Unet%20with%20Clustering%20output.png)
+  ![UNet with Clustering output](https://github.com/Dhruv-Puvar-512/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/blob/main/results/Unet-ASPP%20with%20Clustering%20output.png)
 
 -  **UNet-ASPP with Clustering output**: 
 
-  ![UNet with Clustering output](https://github.com/your-username/your-repository/raw/main/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/results/Unet%20with%20Clustering%20output.png)
+  ![UNet with Clustering output](https://github.com/Dhruv-Puvar-512/Semi-Supervised-Semantic-Segmenation-on-Cloudy-Satelitte-Images/blob/main/results/Unet-Attention%20with%20Clustering%20output.png)
 
 ### How to Use
 
